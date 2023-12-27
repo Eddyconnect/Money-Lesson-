@@ -1,11 +1,12 @@
-<div class="border-bottom row" style="margin-bottom: 16px";>
+<div class="border-bottom row" style="margin-bottom: 16px">
   <div class="col-9">
     <h4 style="color:rgb(120 120 120); margin-bottom: 4px; padding-bottom: 8px;">
-      {{group['group-name']}}
+      {{ group['group-name'] }}
     </h4>
-    <div><b>Description:</b>{{group['description']}}</div>
+    <div><b>Description:</b> {{ group['description'] }}</div>
   </div>
   <div class="col-3">
-    <a href="http://bit.ly/ml_community" type="button" class="btn btn-outline-primary">Join</a>
+    <a href="{{ group['join-link'] }}" type="button" class="btn btn-outline-primary">Join</a>
   </div>
 </div>
+

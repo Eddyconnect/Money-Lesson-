@@ -6,37 +6,37 @@ ROOMS = [{
     'id': 1,
     'group-name': 'ML Community',
     'description': 'General ML Community discussion group.',
-    'image': 'ml-logo2.png'
+    'join-link': 'http://bit.ly/ml_community'
 }, {
     'id': 2,
     'group-name': 'ML Book Reading Challenge',
     'description':
     'A sub-group of ML community dedicated to self development book readings.',
-    'image': 'book.jpg'
+    'join-link': 'http://bit.ly/ml_community'
 }, {
     'id': 3,
     'group-name': 'ML Stocks',
     'description':
     'A sub-group of ML community dedicated to crypto discussions.',
-    'image': 'stock.jpg'
+    'join-link': 'http://bit.ly/ml_community'
 }, {
     'id': 4,
     'group-name': 'ML Savings Challenge 2024',
     'description':
     'A sub-group of ML community dedicated to personal savings target.',
-    'image': 'savings.jpg'
+    'join-link': 'http://bit.ly/ml_community'
 }, {
     'id': 5,
     'group-name': 'ML Crypto',
     'description':
     'A sub-group of ML community dedicated to crypto discussions.',
-    'image': 'crypto.jpg'
+    'join-link': 'http://bit.ly/ml_community'
 }, {
     'id': 6,
     'group-name': 'ML Accountability Group 2024',
     'description':
     'A sub-group of ML community dedicated to individuals ready to go the extra mile to score their 2024 goals.',
-    'image': 'crypto.jpg'
+    'join-link': 'https://wa.link/y3nrhp'
 }]
 
 
